@@ -1,0 +1,3 @@
+[submodule "zynq-xdma"]
+	path = zynq-xdma
+	url = https://github.com/kolpaland/zynq-xdma.git
